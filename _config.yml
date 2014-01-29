@@ -1,6 +1,6 @@
 safe: true
 lsi: false
 pygments: true
-source: ./
+source: "https://github.com/pages/t0lkman/jekyll-demo"
 baseurl: "https://github.com/pages/t0lkman/jekyll-demo"
 url: "https://github.com/pages/t0lkman/jekyll-demo"
